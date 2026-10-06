@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Missionary Adventure - A text-based adventure where the player travels through different locations as a missionary, collecting important items needed to complete their mission while avoiding a dangerous thief.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is a missionary traveling through a new area to complete an important service mission. Along the way, the player must explore different locations and collect six important items: a mission map, service supplies, a food package, a language guide, a flashlight, and a journal. the goal is to collect all six items before entering the abandoned building. A thief is hiding there, and if the player encounters the thief before collecting all the items, the mission is unsuccessful.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Mission Home - Start room
+2. Village Square - Mission Map
+3. Community Center - Service Supplies
+4. Marketplace - Food Package 
+5. Library - Language Guide
+6. Mountain Trail - Flashlight
+7. Chapel - Journal
+8. Abandoned Building - Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Mission Map
+2. Service Supplies
+3. Food Package
+4. Language Guide
+5. Flashlight
+6. Journal
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Thief- A dangerous thief is hiding in the Abandoned Building. The thief wants to steal the missionary's supplies and prevent the mission from being completed. If the player encounters the thief before collecting all six items, the player loses the game.
 
 ## Storyboard and Map Check
 
